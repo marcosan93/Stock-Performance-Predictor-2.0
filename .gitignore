@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignoring the data retrieving file
+Retrieving-Quarterly-Reports.ipynb
