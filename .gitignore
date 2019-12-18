@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignoring the data retrieving file
 Retrieving-Quarterly-Reports.ipynb
+
+# Ignoring pkls
+*.pkl
